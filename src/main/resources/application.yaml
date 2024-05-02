@@ -1,0 +1,6 @@
+spring:
+  application:
+    name : cc-yearbook-ip-relay-service
+relay:
+  url: ${PRECISION_PROCO_URL}
+  bearerToken: ${PRECISION_PROCO_BEARER_TOKEN}
